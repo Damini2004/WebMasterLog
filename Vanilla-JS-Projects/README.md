@@ -47,8 +47,7 @@
 |  20   | [Sudoku Game 6x6](./Intermediate/Sudoku-Game-6x6/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
 |  21   | [Sort Visualizer](./Advanced/sort-visualizer/) | ![Advanced](https://img.shields.io/badge/Advanced-FF0000?style=for-the-badge) |
 |  22   | [Joke Telling Website](./Basic/Joke-Telling-Website/) | ![Basic](https://img.shields.io/badge/Basic-00FF00?style=for-the-badge) |
-|  23   | [Interval Timer](./Intermediate/Interval_Timer/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
-|  24   | [Ceaser-Cipher](./Intermediate/Ceaser-Cipher/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
+|  23   | [Interval Timer](./Intermediate/Interval_Timer/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) ||  24   | [Ceaser-Cipher](./Intermediate/Ceaser-Cipher/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
 |  25   | [Email-Subscription-form-with-google-sheet](./Intermediate/Email-Subscription-form-with-google-sheet/) | ![Intermediate](https://img.shields.io/badge/Intermediate-FFD700?style=for-the-badge) |
 
 </div>
